@@ -3,11 +3,7 @@
 > vite
 
 
-  VITE v5.4.20  ready in 471 ms
+  VITE v5.4.20  ready in 366 ms
 
   ➜  Local:   http://localhost:3000/
   ➜  Network: http://172.20.15.144:3000/
-The file does not exist at "/home/workspace/node_modules/.vite/deps/lucide-react.js?v=7605bb78" which is in the optimize deps directory. The dependency might be incompatible with the dep optimizer. Try adding it to `optimizeDeps.exclude`.
-The file does not exist at "/home/workspace/node_modules/.vite/deps/@splinetool_react-spline.js?v=183f2621" which is in the optimize deps directory. The dependency might be incompatible with the dep optimizer. Try adding it to `optimizeDeps.exclude`.
-1:51:22 PM [vite] ✨ new dependencies optimized: lucide-react, @splinetool/react-spline
-1:51:22 PM [vite] ✨ optimized dependencies changed. reloading
